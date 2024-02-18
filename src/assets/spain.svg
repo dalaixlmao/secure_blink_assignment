@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="21.75" viewBox="0 0 29 21.75">
+  <g id="spain" transform="translate(0 -6)">
+    <path id="Path_22" data-name="Path 22" d="M29,12.458H0V7.292A1.252,1.252,0,0,1,1.208,6H27.792A1.252,1.252,0,0,1,29,7.292Z" fill="#c60b1e"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="29" height="10.25" transform="translate(0 11.633)" fill="#ffc300"/>
+    <path id="Path_23" data-name="Path 23" d="M29,37.167a1.252,1.252,0,0,1-1.208,1.292H1.208A1.252,1.252,0,0,1,0,37.167V32H29Z" transform="translate(0 -10.708)" fill="#c60b1e"/>
+    <path id="Path_24" data-name="Path 24" d="M11.167,19.292V18H6v1.292H7.292v1.292H6v3.444L8.583,25.75l2.583-1.723V20.583H9.875V19.292Z" transform="translate(-2.125 -5)" fill="#91443a"/>
+  </g>
+</svg>
